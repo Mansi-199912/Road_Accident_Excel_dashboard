@@ -9,10 +9,10 @@ Total Casualties & % breakdown by accident severity.
 Maximum casualties by vehicle type.
 
 📈 Secondary KPIs
-Casualty distribution by vehicle type
-Monthly trend comparison between the current and previous year
-Maximum casualties by road type
-Casualty distribution by road surface condition
+Casualty distribution by vehicle type		  
+Monthly trend comparison between the current and previous year    
+Maximum casualties by road type   
+Casualty distribution by road surface condition 
 Casualty breakdown by area/location and day/night
 
 These KPIs help in identifying high-risk zones, severe accident types, and environmental factors influencing accident impact.
