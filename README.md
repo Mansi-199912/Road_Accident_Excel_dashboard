@@ -9,27 +9,28 @@ This dashboard is designed to analyze road accident data with a primary focus on
 
 ##Questions (KPIs) 
 🎯 Primary KPIs
-Total Casualties occurred after road accidents.
-Total Casualties & % breakdown by accident severity.
-Maximum casualties by vehicle type.
+-Total Casualties occurred after road accidents.
+-Total Casualties & % breakdown by accident severity.
+-Maximum casualties by vehicle type.
 
 📈 Secondary KPIs
-Casualty distribution by vehicle type		  
-Monthly trend comparison between the current and previous year    
-Maximum casualties by road type   
-Casualty distribution by road surface condition 
-Casualty breakdown by area/location and day/night
-- Dashboard Interaction <a href=""></a>
+-Casualty distribution by vehicle type		  
+-Monthly trend comparison between the current and previous year    
+-Maximum casualties by road type   
+-Casualty distribution by road surface condition 
+-Casualty breakdown by area/location and day/night
+- Dashboard Interaction <a href="https://github.com/Mansi-199912/Road_Accident_Excel_dashboard/blob/main/Dashboard.JPG">View Dashboard</a>
 
-Project Workflow
+##Project Workflow
 This project follows a structured data analytics pipeline:
-📝 Requirement Gathering:  Define business objectives, KPIs, and data needs.
-🧹 Data Cleaning: Remove inconsistencies, handle missing values, and ensure dataset reliability.
-🔄 Data Processing: Format, categorize, and transform data for analysis.
-📊 Data Analysis: Explore trends, outliers, and correlations.
-📈 Data Visualization: Use graphs, charts, and dashboards to present insights.
-📊 Dashboard / Report Creation: Interactive Excel dashboard created for stakeholder-ready reporting.
-🧠 Report Insights
-Final conclusions and recommendations derived from visual analytics.
+-📝 Requirement Gathering:  Define business objectives, KPIs, and data needs.
+-🧹 Data Cleaning: Remove inconsistencies, handle missing values, and ensure dataset reliability.
+-🔄 Data Processing: Format, categorize, and transform data for analysis.
+-📊 Data Analysis: Explore trends, outliers, and correlations.
+-📈 Data Visualization: Use graphs, charts, and dashboards to present insights.
+-📊 Dashboard / Report Creation: Interactive Excel dashboard created for stakeholder-ready reporting.
+-🧠 Report Insights: Final conclusions and recommendations derived from visual analytics.
 
+##Dashboard
+![Dashboard](https://github.com/user-attachments/assets/e7b8fcf8-9632-443a-b3ea-0f893e07b241)
 
